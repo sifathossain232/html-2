@@ -1,0 +1,372 @@
+@media screen and (max-width: 1400px) {
+
+}
+@media screen and (max-width: 1200px) {
+    .head{
+        padding: 0px 40px;
+    }
+    .banner-sectio{
+        width: 94%;
+        margin: auto;
+    }
+    .about-section{
+        padding: 0px 40px;
+    }
+    .about-section img{
+        width: 400px;
+    }
+    .about{
+        margin-left: 20px;
+    }
+    .about h2 p{
+        font-size: 20px;
+    }
+    .about ul li{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .about h6{
+        font-size: 15px;
+    }
+    .about button{
+        font-size: 18px;
+    }
+    .country{
+        display: grid;
+        grid-template-columns:  repeat(2,1fr);
+        gap: 10px;
+        padding: 0px 40px;
+    }
+    .maldives{
+        width: 100%;
+    }
+    .indonesia{
+       width: 100%;
+    }
+    .srilanka{
+        width: 100%;
+    }
+    .north-america{
+        width: 100%;
+    }
+    .kasmir{
+        width: 100%;
+    }
+    .banglades{
+        width: 100%;
+    }
+    .simple-place img{
+        width: 500px;
+    }
+    .simple-place{
+        padding: 0px 40px;
+    
+    }
+    .perfect-place h2{
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .perfect-place p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .perfect-place li{
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 30px;
+    }
+    .contact-section{
+        padding: 0px 40px;
+        gap: 20px;
+    }
+    .tour-price1{
+        width: 100%;
+    }
+    .tour-price2{
+        width: 100%;
+    }
+    .tour-details2{
+        right: 300px;
+    }
+    .tour-price3{
+        width: 100%;
+    }
+    .gap{
+       margin: 0px 40px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .logo{
+        font-size: 20px;
+    }
+    .menu{
+        gap: 20px;
+        font-size: 20px;
+    }
+    .head{
+        padding: 0px 40px;
+    }
+    .banner p{
+        font-size: 20px;
+    }
+    .banner h2{
+        font-size: 45px;
+    }
+    .banner-sectio{
+        width: 92%;
+        margin: auto;
+    }
+    .input-section input{
+        height: 50px;
+        width: 160px;
+    }
+    .input-section select{
+        height: 50px;
+        width: 160px;
+    }
+    .input-section button{
+        height: 50px;
+        width: 160px;
+    }
+    .input-section{
+        gap: 10px;
+    }
+    .about-section{
+        gap: 30px;
+    }
+    .about-section img{
+        width: 400px;
+        margin-right: 20px;
+    }
+    .about{
+        margin-left: 20px;
+    }
+    .about h2 p{
+        font-size: 20px;
+    }
+    .about ul li{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .about h6{
+        font-size: 15px;
+    }
+    .about button{
+        font-size: 18px;
+    }
+    .destination-text h2{
+        font-size: 25px;
+    }
+    .destination-text p{
+        font-size: 18px;
+    }
+    .service-cart{
+       margin: 0px 50px;
+    }
+     .cart1 ,  .cart2 , .cart3{
+        width: 100%;
+     
+    }
+    .perfect-place h2{
+        font-size: 20px;
+    }
+    .perfect-place p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .perfect-place li{
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 30px;
+    }
+    .simple-place img{
+        width: 400px;
+    }
+    .tour-details2{
+        right: 200px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .logo{
+        font-size: 15px;
+    }
+    .menu{
+        gap: 10px;
+        font-size: 18px;
+    }
+    .banner p{
+        font-size: 15px;
+    }
+    .banner h2{
+        font-size: 40px;
+    }
+    .banner-sectio{
+        width: 90%;
+        margin: auto;
+    }
+    .input-section input{
+        height: 50px;
+        width: 120px;
+    }
+    .input-section select{
+        height: 50px;
+        width: 120px;
+    }
+    .input-section button{
+        height: 50px;
+        width: 120px;
+    }
+    .input-section{
+        gap: 5px;
+    }
+    .about-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .about-section img{
+        width: 100%;
+        padding: 0px 40px;
+        height: 400px;
+        margin-left: 20px;
+    }
+    .destination-text h2{
+        font-size: 22px;
+    }
+    .destination-text p{
+        font-size: 15px;
+    }
+    .country h2{
+        font-size: 20px;
+    }
+
+    .block{
+        display: inline-flex;
+
+    }
+    .service{
+        margin: 50px 20px;
+    }
+    .cart1 ,  .cart2 , .cart3{
+        width: 100%;
+        height: 350px;
+     
+    }
+    
+    .tour-details1{
+        margin-left: 100px;
+        margin-right: -95px;
+        
+    }
+    .tour-details2{
+        right: 30px;
+    }
+    .tour-details3{
+        margin-left: 100px;
+        margin-right: -95px;
+        
+    }
+    .simple-place{
+        display: flex;
+        flex-direction: column;
+    }
+    .simple-place img{
+        width: 100%;
+    }
+    .contact-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact{
+        width: 100%;
+    }
+    .save-up{
+        width: 100%;
+    }
+    .footer-section{
+        padding: 0px 40px;
+    }
+    .block1{
+        display: none;
+
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .bar-icon{
+        display: block;
+    }
+    .menu li{
+        display: none;
+    }
+    .banner h2{
+        font-size: 25px;
+    }
+    .banner p{
+        font-size: 13px;
+    }
+    .input-section{
+        gap: 5px;
+    }
+    .input-section{
+        display: flex;
+        gap: 5px;
+        flex-direction: column;
+    }
+    .about-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .about-section img{
+        width: 100%;
+        padding: 0px 40px;
+        height: 300px;
+        margin-left: 20px;
+    }
+    .country{
+        display: grid;
+        grid-template-columns:  repeat(1,1fr);
+        gap: 10px;
+        padding: 0px 20px 0px 20px;
+    }
+    .destination-text h2{
+        font-size: 20px;
+    }
+    .destination-text p{
+        font-size: 12px;
+    }
+    .country h2{
+        font-size: 18px;
+    }
+    .cart1 ,  .cart2 , .cart3{
+        width: 100%;
+        height: 600px;
+     
+    }
+    .tour-details1{
+        height: 450px;
+        width: 270px;
+        
+    }
+    .icons{
+        gap: 5px;
+    }
+    .icons-two{
+         gap: 5px;
+         font-size: 12px;
+    }
+    .tour-details2{
+        height: 450px;
+        width: 270px;
+        
+    }
+    .tour-details3{
+        height: 450px;
+        width: 270px;
+        
+    }
+
+}
